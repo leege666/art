@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "你好",
+  "title": "恭喜你发现了宝藏",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
-  "footer": "谢谢",
+  "footer": "玩的开心",
   "usage-stats": false
 }
